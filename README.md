@@ -67,6 +67,3 @@ Global Fashion Retail Analytics is a real-world capstone project focused on tran
 ## 🏁 Conclusion
 
 This capstone simulates an end-to-end data analytics journey—cleaning, analyzing, visualizing, and predicting—to empower Global Fashion Retail with insights that drive profitability and customer loyalty.
-
-
-💡 *Want to reuse this project? Fork it and build your own retail insights!*
